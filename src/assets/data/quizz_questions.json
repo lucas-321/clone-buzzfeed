@@ -1,0 +1,57 @@
+{
+  "title":"Qual o seu temperamento?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual a sua preferência ?",
+      "options":[
+        {"id": 1, "name":"Passear", "alias":"F"},
+        {"id": 2, "name":"Ficar em casa", "alias":"M"},
+        {"id": 3, "name":"Evento esportivo", "alias":"C"},
+        {"id": 4, "name":"Festa", "alias":"S"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que você escolheria fazer ?",
+      "options":[
+        {"id": 1, "name":"Conhecer pessoas, fazer amizades, ir para lugares novos, viver experiências marcantes", "alias":"S"},
+        {"id": 2, "name":"Atividades práticas e objetivas que me traram algum tipo de resultado", "alias":"C"},
+        {"id": 3, "name":"Tarefas criativas como leitura de histórias, desenho, pintura, escrever, etc", "alias":"M"},
+        {"id": 4, "name":"Experiências relaxantes e contemplativas como ir ao cinema, sair com meus amigos, escutar música", "alias":"F"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que é mais difícil pra você ?",
+      "options":[
+        {"id": 1, "name":"Enfrentar desafios sem ter medo de errar", "alias":"M"},
+        {"id": 2, "name":"Manter a atenção em uma atividade por vez", "alias":"S"},
+        {"id": 3, "name":"Pontualidade das entregas", "alias":"F"},
+        {"id": 4, "name":"Tomar decisões em conjunto", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual sua habilidade mais forte dentre essas ?",
+      "options":[
+        {"id": 1, "name":"Objetividade", "alias":"C"},
+        {"id": 2, "name":"Flexibilidade", "alias":"F"},
+        {"id": 1, "name":"Comunicação", "alias":"S"},
+        {"id": 2, "name":"Organização", "alias":"M"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "O que você considera mais importante ?",
+      "options":[
+        {"id": 1, "name":"Tranquilidade", "alias":"F"},
+        {"id": 2, "name":"Determinação", "alias":"C"},
+        {"id": 1, "name":"Perfeccionismo", "alias":"M"},
+        {"id": 2, "name":"Receptividade", "alias":"S"}
+      ]
+    }
+  ]
+}
+
+
