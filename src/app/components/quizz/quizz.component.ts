@@ -49,8 +49,6 @@ async nextStep(){
     }else{
       const finalAnswer:string = await this.checkResult(this.answers)
       this.finished = true
-      // this.answerSelected = quizz_questions.results[finalAnswer as keyof typeof quizz_questions.results]
-
       this.answerSelected = finalAnswer
 
       console.log(this.answers)
